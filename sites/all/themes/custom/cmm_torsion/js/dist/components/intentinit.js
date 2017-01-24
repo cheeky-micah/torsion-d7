@@ -1,0 +1,1 @@
+define(["jquery","intention","intentcontext","viewportsize"],function(n,t,i,e){"use strict";var o=function(){this.init()};o.prototype.init=function(){i.horizontal_axis.respond()},n(function(){i.intent.elements(document);new o})});
